@@ -57,3 +57,14 @@ import 'package:assets_audio_player/assets_audio_player.dart';
 
 ## For more information :
 [Documentation](https://pub.dev/packages/assets_audio_player)
+
+
+
+# Screenshots
+
+![XyloPhone](https://user-images.githubusercontent.com/91545371/197415239-39cde23e-f89d-4a7f-b5ca-c90bbd21e06a.png)
+
+# Video
+
+[XyloPhone-Video.webm](https://user-images.githubusercontent.com/91545371/197415243-6f422c31-3dee-4682-b401-77ee053bd2f7.webm)
+
