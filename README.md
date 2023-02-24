@@ -62,7 +62,13 @@ import 'package:assets_audio_player/assets_audio_player.dart';
 
 # Screenshots
 
+## Web:
+
 ![XyloPhone](https://user-images.githubusercontent.com/91545371/197415239-39cde23e-f89d-4a7f-b5ca-c90bbd21e06a.png)
+
+## Phone:
+
+![WhatsApp Image 2023-02-24 at 5 36 19 PM](https://user-images.githubusercontent.com/91545371/221175361-71cc07cc-b828-4cf4-92c3-91f48d687102.jpeg)
 
 # Video
 
